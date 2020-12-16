@@ -1,0 +1,48 @@
+
+.bg-darkGray {
+	background-color:  #f6f6f6;
+	color:#ffffff;
+}
+.cu-bar .search-form {
+  background-color:  #ffffff;
+}
+.cu-bar .search-form input{
+  height: 100rpx;
+}
+.cu-bar .search-form{
+  height: 90rpx;
+}
+.cu-bar{
+  margin-top: 300rpx;
+}
+.ai-view{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50rpx;
+}
+.txt{
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #00cc77;
+}
+.tip{
+  font-size: 22rpx;
+  color: #00cc77;
+  margin-top: 20rpx;
+}
+.ai-paizhao{
+  width: 150rpx;
+  height: 150rpx;
+  margin-top: 50rpx;
+}
+.float-view{
+  position:absolute;
+  z-index:9;
+  width: 100rpx;
+  height: 100rpx;
+  margin-right: 50rpx;
+  margin-bottom: 50rpx;
+}

@@ -1,0 +1,10 @@
+<view class="cu-bar bg-darkGray search">
+</view>
+<view class='ai-view'>
+ 
+  <image src='/images/paizhao.png' class='ai-paizhao' bindtap='onBindCamera' />
+  <text class='tip'>自动识别</text>
+
+</view>
+
+
